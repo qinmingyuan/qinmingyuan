@@ -9,5 +9,4 @@
 * [几分姿色](https://jifenzise.com)：美业品牌
 
 
-[![我的](https://github-readme-stats.vercel.app/api?username=qinmingyuan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qinmingyuan)](https://github.com/anuraghazra/github-readme-stats)
