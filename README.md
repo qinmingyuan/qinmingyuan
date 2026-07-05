@@ -7,6 +7,3 @@
 * [Work Design](https://work.design)
 * [一餐之计](https://yicanzhiji.com)：工作餐品牌解决方案
 * [几分姿色](https://jifenzise.com)：美业品牌
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qinmingyuan)](https://github.com/anuraghazra/github-readme-stats)
